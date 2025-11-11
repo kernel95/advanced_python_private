@@ -1,2 +1,1 @@
 # advanced_python_private
-advanced_pyton3_course_november
