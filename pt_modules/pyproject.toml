@@ -1,0 +1,26 @@
+[build-system]
+# Tells Python which build system to use
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+# Basic project metadata
+name = "pt_text_utils"               # change to your project name
+version = "0.1.0"
+description = "A simple Python library created for learning purposes"
+authors = [
+  { name = "Aidan Killeen", email = "aidan.killeen@gmail.com" }
+]
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.8"
+
+# Runtime dependencies (install with pip when someone uses your library)
+dependencies = [
+  "pyfiglet>=1.0.4"
+]
+
+[tool.setuptools.packages.find]
+# Tells setuptools where to find your code
+where = ["src"]

@@ -1,0 +1,8 @@
+pyproject.toml
+src/pt_text_utils/__init__.py
+src/pt_text_utils/utils.py
+src/pt_text_utils.egg-info/PKG-INFO
+src/pt_text_utils.egg-info/SOURCES.txt
+src/pt_text_utils.egg-info/dependency_links.txt
+src/pt_text_utils.egg-info/requires.txt
+src/pt_text_utils.egg-info/top_level.txt
