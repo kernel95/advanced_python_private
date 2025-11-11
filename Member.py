@@ -26,11 +26,11 @@ m1 = Member(1, "Alice", "alice@gmail.com", True)
 m2 = Member(1, "Alice", "alice@gmail.com", True)
 
 
-print(m1)
+#print(m1)
 
 members = [m1,m2]
 
-print(members)
+#print(members)
 
 
 # if m1==m2:
