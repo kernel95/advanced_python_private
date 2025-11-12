@@ -1,0 +1,9 @@
+pyproject.toml
+src/member_manager/__init__.py
+src/member_manager/member.py
+src/member_manager/member_dao.py
+src/pt_text_utils.egg-info/PKG-INFO
+src/pt_text_utils.egg-info/SOURCES.txt
+src/pt_text_utils.egg-info/dependency_links.txt
+src/pt_text_utils.egg-info/requires.txt
+src/pt_text_utils.egg-info/top_level.txt
